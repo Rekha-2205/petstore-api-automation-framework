@@ -1,0 +1,16 @@
+{
+	"id": "e9f52a76-dabe-461e-b0d8-b3309b86ace1",
+	"name": "Assignment 4",
+	"values": [
+		{
+			"key": "url",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-03-20T10:23:57.702Z",
+	"_postman_exported_using": "Postman/12.2.3"
+}
